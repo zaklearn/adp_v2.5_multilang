@@ -1,0 +1,252 @@
+# ==================================================
+# DICTIONNAIRE DES LABELS - AFRICA DEMOGRAPHICS PLATFORM
+# Labels traduits FR/EN pour tous les indicateurs
+# ==================================================
+
+# INDICATEURS DÉMOGRAPHIQUES PRINCIPAUX
+# =====================================
+
+total_fertility_rate|fr=Indice Synthétique de Fécondité (ISF)|en=Total Fertility Rate (TFR)
+total_fertility_rate_desc|fr=Nombre moyen d'enfants par femme durant sa vie reproductive|en=Average number of children per woman during reproductive life
+
+population_growth_rate|fr=Taux d'Accroissement Démographique|en=Population Growth Rate
+population_growth_rate_desc|fr=Variation annuelle de la population (naissances - décès + migration)|en=Annual population change (births - deaths + migration)
+
+median_age|fr=Âge Médian|en=Median Age
+median_age_desc|fr=Âge qui divise la population en deux groupes égaux|en=Age that divides population into two equal groups
+
+life_expectancy|fr=Espérance de Vie à la Naissance|en=Life Expectancy at Birth
+life_expectancy_desc|fr=Nombre moyen d'années qu'un nouveau-né peut espérer vivre|en=Average number of years a newborn can expect to live
+
+total_population|fr=Population Totale|en=Total Population
+total_population_desc|fr=Nombre total d'habitants dans le pays|en=Total number of inhabitants in the country
+
+birth_rate|fr=Taux de Natalité|en=Birth Rate
+birth_rate_desc|fr=Nombre de naissances vivantes pour 1000 habitants par an|en=Number of live births per 1,000 population per year
+
+death_rate|fr=Taux de Mortalité|en=Death Rate
+death_rate_desc|fr=Nombre de décès pour 1000 habitants par an|en=Number of deaths per 1,000 population per year
+
+urban_population_percent|fr=Population Urbaine (%)|en=Urban Population (%)
+urban_population_percent_desc|fr=Pourcentage de la population vivant en zones urbaines|en=Percentage of population living in urban areas
+
+
+# STRUCTURE PAR ÂGE
+# =================
+
+population_0_14_percent|fr=Population 0-14 ans (%)|en=Population 0-14 years (%)
+population_0_14_percent_desc|fr=Pourcentage de la population âgée de 0 à 14 ans|en=Percentage of population aged 0-14 years
+
+population_15_64_percent|fr=Population 15-64 ans (%)|en=Population 15-64 years (%)
+population_15_64_percent_desc|fr=Population en âge de travailler (15-64 ans)|en=Working-age population (15-64 years)
+
+population_65_plus_percent|fr=Population 65+ ans (%)|en=Population 65+ years (%)
+population_65_plus_percent_desc|fr=Pourcentage de la population âgée de 65 ans et plus|en=Percentage of population aged 65 years and over
+
+
+# RAPPORTS DE DÉPENDANCE
+# =======================
+
+child_dependency_ratio|fr=Rapport de Dépendance Juvénile|en=Child Dependency Ratio
+child_dependency_ratio_desc|fr=Ratio (0-14 ans) / (15-64 ans) × 100|en=Ratio (0-14 years) / (15-64 years) × 100
+
+old_age_dependency_ratio|fr=Rapport de Dépendance des Âgés|en=Old-Age Dependency Ratio
+old_age_dependency_ratio_desc|fr=Ratio (65+ ans) / (15-64 ans) × 100|en=Ratio (65+ years) / (15-64 years) × 100
+
+total_dependency_ratio|fr=Rapport de Dépendance Total|en=Total Dependency Ratio
+total_dependency_ratio_desc|fr=Somme des rapports de dépendance juvénile et des âgés|en=Sum of child and old-age dependency ratios
+
+
+# DIVIDENDE DÉMOGRAPHIQUE
+# ========================
+
+dividend_score|fr=Score du Dividende Démographique|en=Demographic Dividend Score
+dividend_score_desc|fr=Indicateur composite (0-100) du potentiel économique démographique|en=Composite indicator (0-100) of demographic economic potential
+
+dividend_status|fr=Statut du Dividende|en=Dividend Status
+dividend_status_desc|fr=Classification du potentiel économique démographique|en=Classification of demographic economic potential
+
+dividend_window|fr=Fenêtre Démographique|en=Demographic Window
+dividend_window_desc|fr=Période favorable pour croissance économique accélérée|en=Favorable period for accelerated economic growth
+
+
+# STATUTS DU DIVIDENDE
+# =====================
+
+high_opportunity|fr=Opportunité Maximale|en=High Opportunity
+high_opportunity_desc|fr=Fenêtre démographique optimale pour croissance économique|en=Optimal demographic window for economic growth
+
+opening_window|fr=Fenêtre qui s'Ouvre|en=Opening Window
+opening_window_desc|fr=Transition démographique en cours, potentiel croissant|en=Demographic transition underway, growing potential
+
+limited_window|fr=Fenêtre Limitée|en=Limited Window
+limited_window_desc|fr=Potentiel démographique modéré, réformes nécessaires|en=Moderate demographic potential, reforms needed
+
+no_window|fr=Aucune Fenêtre|en=No Window
+no_window_desc|fr=Conditions démographiques pas encore favorables|en=Demographic conditions not yet favorable
+
+
+# CLASSIFICATIONS CLUSTERING
+# ===========================
+
+early_transition|fr=Transition Précoce (Haute Fécondité)|en=Early Transition (High Fertility)
+early_transition_desc|fr=Début de transition démographique, fécondité élevée|en=Beginning of demographic transition, high fertility
+
+moderate_transition|fr=Transition Modérée|en=Moderate Transition
+moderate_transition_desc|fr=Transition démographique en cours, fécondité moyenne|en=Demographic transition underway, moderate fertility
+
+advanced_transition|fr=Transition Avancée|en=Advanced Transition
+advanced_transition_desc|fr=Transition démographique avancée, fécondité basse|en=Advanced demographic transition, low fertility
+
+late_transition|fr=Transition Tardive (Faible Fécondité)|en=Late Transition (Low Fertility)
+late_transition_desc|fr=Fin de transition, fécondité très basse|en=End of transition, very low fertility
+
+
+# MODULES DE L'APPLICATION
+# =========================
+
+continental_overview|fr=Vue Continentale|en=Continental Overview
+continental_overview_desc|fr=Statistiques et indicateurs pour l'ensemble de l'Afrique|en=Statistics and indicators for all of Africa
+
+country_profiles|fr=Profils Pays|en=Country Profiles
+country_profiles_desc|fr=Analyse démographique détaillée par pays|en=Detailed demographic analysis by country
+
+trend_analysis|fr=Analyse des Tendances|en=Trend Analysis
+trend_analysis_desc|fr=Évolution temporelle des indicateurs démographiques|en=Temporal evolution of demographic indicators
+
+clustering_analysis|fr=Analyse par Groupement|en=Clustering Analysis
+clustering_analysis_desc|fr=Classification ML des pays par profils démographiques|en=ML classification of countries by demographic profiles
+
+data_explorer|fr=Explorateur de Données|en=Data Explorer
+data_explorer_desc|fr=Filtrage avancé et export personnalisé|en=Advanced filtering and custom export
+
+api_status|fr=Statut API et Diagnostic|en=API Status & Debug
+api_status_desc|fr=Tests de connectivité et diagnostic système|en=Connectivity tests and system diagnostics
+
+cache_management|fr=Gestion du Cache|en=Cache Management
+cache_management_desc|fr=Gestion des fichiers cache et optimisation|en=Cache file management and optimization
+
+
+# ÉLÉMENTS D'INTERFACE
+# =====================
+
+select_country|fr=Sélectionner un pays|en=Select country
+select_year|fr=Sélectionner l'année|en=Select year
+select_indicator|fr=Sélectionner l'indicateur|en=Select indicator
+countries_comparison|fr=Comparaison de pays|en=Countries comparison
+
+data_source|fr=Source des Données|en=Data Source
+world_bank_api|fr=API de la Banque Mondiale|en=World Bank Open Data API
+real_time_data|fr=Données en temps réel|en=Real-time data
+african_countries|fr=54 pays africains|en=54 African countries
+years_coverage|fr=Années : 1990-2023|en=Years: 1990-2023
+population_weighted|fr=Métriques pondérées par population|en=Population-weighted metrics
+
+loading_data|fr=Chargement des données démographiques...|en=Loading demographic data...
+no_data|fr=Aucune donnée disponible|en=No data available
+data_loaded|fr=Données chargées avec succès|en=Data loaded successfully
+
+
+# UNITÉS DE MESURE
+# =================
+
+children_per_woman|fr=enfants/femme|en=children/woman
+percent_per_year|fr=%/an|en=%/year
+years|fr=ans|en=years
+million|fr=millions|en=million
+billion|fr=milliards|en=billion
+percent|fr=%|en=%
+
+
+# VISUALISATIONS
+# ==============
+
+population_pyramid|fr=Pyramide des Âges|en=Population Pyramid
+population_pyramid_desc|fr=Distribution de la population par âge et sexe|en=Population distribution by age and sex
+
+africa_map|fr=Carte Africaine|en=Africa Map
+africa_map_desc|fr=Visualisation géographique des indicateurs|en=Geographic visualization of indicators
+
+trend_chart|fr=Graphique de Tendances|en=Trend Chart
+trend_chart_desc|fr=Évolution temporelle des indicateurs|en=Temporal evolution of indicators
+
+cluster_visualization|fr=Visualisation des Groupes|en=Cluster Visualization
+cluster_visualization_desc|fr=Classification des pays par similitudes|en=Country classification by similarities
+
+
+# EXPORT ET TÉLÉCHARGEMENT
+# =========================
+
+download_csv|fr=Télécharger en CSV|en=Download as CSV
+download_json|fr=Télécharger en JSON|en=Download as JSON
+export_options|fr=Options d'Export|en=Export Options
+generate_report|fr=Générer Rapport|en=Generate Report
+
+
+# MÉTADONNÉES ET CALCULS
+# =======================
+
+calculation_method|fr=Méthode de Calcul|en=Calculation Method
+data_coverage|fr=Couverture des Données|en=Data Coverage
+countries_analyzed|fr=Pays Analysés|en=Countries Analyzed
+years_available|fr=Années Disponibles|en=Years Available
+indicators_available|fr=Indicateurs Disponibles|en=Indicators Available
+
+population_calculation|fr=Calculé à partir des données pays de la Banque Mondiale|en=Calculated from World Bank country-level data
+weighted_average|fr=Moyenne pondérée par population|en=Population-weighted average
+robust_calculation|fr=Calcul robuste avec détection d'outliers|en=Robust calculation with outlier detection
+
+
+# RÉFÉRENCES SCIENTIFIQUES
+# =========================
+
+scientific_reference|fr=Référence Scientifique|en=Scientific Reference
+bloom_williamson|fr=Bloom & Williamson (1998)|en=Bloom & Williamson (1998)
+mason_2001|fr=Mason (2001)|en=Mason (2001)
+pool_2006|fr=Pool et al. (2006)|en=Pool et al. (2006)
+coale_demeny|fr=Coale & Demeny - Modèles Démographiques|en=Coale & Demeny - Demographic Models
+
+
+# NAVIGATION
+# ==========
+
+navigation|fr=Navigation|en=Navigation
+app_title|fr=Plateforme Démographique Africaine|en=Africa Demographics Platform
+language_selection|fr=Sélection de la Langue|en=Language Selection
+
+previous|fr=Précédent|en=Previous
+next|fr=Suivant|en=Next
+back|fr=Retour|en=Back
+home|fr=Accueil|en=Home
+
+
+# MESSAGES SYSTÈME
+# =================
+
+api_connected|fr=API connectée avec succès|en=API connected successfully
+api_error|fr=Erreur de connexion API|en=API connection error
+cache_cleared|fr=Cache vidé avec succès|en=Cache cleared successfully
+data_processing|fr=Traitement des données en cours...|en=Data processing in progress...
+calculation_complete|fr=Calcul terminé|en=Calculation complete
+
+error_loading|fr=Erreur lors du chargement|en=Error loading
+insufficient_data|fr=Données insuffisantes|en=Insufficient data
+outliers_detected|fr=Valeurs aberrantes détectées|en=Outliers detected
+validation_failed|fr=Échec de la validation|en=Validation failed
+
+
+# FOOTER
+# ======
+
+platform_description|fr=Plateforme Démographique Africaine - Analyse en Temps Réel|en=Africa Demographics Platform - Real-Time Analysis
+developed_by|fr=Conception et développement|en=Designed and developed by
+assisted_by|fr=Assisté par|en=Assisted by
+version|fr=Version|en=Version
+last_update|fr=Dernière mise à jour|en=Last update
+
+features_list|fr=Fonctionnalités : Vue Continentale • Profils Pays • Analyse Tendances • Groupement ML • Explorateur|en=Features: Continental Overview • Country Profiles • Trend Analysis • ML Clustering • Data Explorer
+data_attribution|fr=API Banque Mondiale • Données Temps Réel|en=World Bank API • Real-time Data
+
+
+# FIN DU DICTIONNAIRE
+# ====================
